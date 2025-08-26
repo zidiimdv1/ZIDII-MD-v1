@@ -1,7 +1,7 @@
 {
   "name": "ZIDII-MD-v1",
   "description": "Javascript WhatsApp bot made by 𝐌𝐑 𝐙𝐈𝐃𝐈𝐈",
-  "logo": "<a href="https://ibb.co/DfsthjcF"><img src="https://i.ibb.co/xqPDWr9b/FB-IMG-1703516906637.jpg" alt="FB-IMG-1703516906637" border="0"></a>",
+  "logo": "https://ibb.co/DfsthjcF"><img src="https://i.ibb.co/xqPDWr9b/FB-IMG-1703516906637.jpg" alt="FB-IMG-1703516906637" border="0"></a>",
   "keywords": ["ZIDII-MD-v1"],
   "success_url": "/",
 
