@@ -7,7 +7,7 @@
 <a><img src='https://ik.imagekit.io/mrshaban/Picsart_25-02-01_22-47-44-239.jpg'/></a>
 
 <p align="center">
-  <a href="https://github.com/zidiimdv1/ZIDII-MD-v1/blob/main/README.md?plain=1"><img title="Developer" src="https://img.shields.io/badge/Author-SHABAN%20MD-FF00FF.svg?style=big-square&logo=github" /></a>
+  <a href="https://github.com/zidiimdv1/ZIDII-MD-v1/blob/main/README.md?plain=1"><img title="Developer" src="https://img.shields.io/badge/Author-ZIDII%20MD-FF00FF.svg?style=big-square&logo=github" /></a>
 </p>
 
 <div align="center">
