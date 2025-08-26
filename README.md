@@ -2,7 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=speech&height=200&color=gradient&text=WE'LL%20COME%20🥳&animation=blinking&fontAlign=36&fontAlignY=36&descAlign=62&reversal=false&textBg=false"width="100%">
 </div>
 
-<a href="https://git.io/typing-svg"><img src="https://ibb.co/p6FKBRCs.demolab.com?font=Black+Ops+One&size=70&pause=500&color=8A2BE2&center=true&width=1150&height=200&lines=PLEASE+FORK+STAR+BOT+REPO" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=70&pause=500&color=8A2BE2&center=true&width=1150&height=200&lines=PLEASE+FORK+STAR+BOT+REPO" alt="Typing SVG" /></a>
+  </div>
   </div>
 <a><img src='https://ik.imagekit.io/mrshaban/Picsart_25-02-01_22-47-44-239.jpg'/></a>
 
