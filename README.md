@@ -3,16 +3,16 @@
 <a href="https://ibb.co/p6FKBRCs"><img src="https://i.ibb.co/V04CcQXh/In-Shot-20250303-085621949.jpg" alt="In-Shot-20250303-085621949" border="0"></a>
 
 <p align="center">
-  <a href="https://github.com/Bandah-E-Ali"><img title="Developer" src="https://img.shields.io/badge/Author-EDITH%20MD-FF00FF.svg?style=big-square&logo=github" /></a>
+  <a href="https://github.com/zidiimdv1/ZIDII-MD-v1/blob/main/README.md?plain=1"><img title="Developer" src="https://img.shields.io/badge/Author-ZIDII%20MD-FF00FF.svg?style=big-square&logo=github" /></a>
 </p>
 
 <div align="center">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+EDITH+MD+BETTER+OPTION;🔥+THE+MOST+POWERFUL+WHATSAPP+BOT;💻+DEVELOPER+BY+MR+BANDAHEALI;🚀+EDITH-MD+SOLUTIONS;🌈+FAST+⚡+SECURE+🔒+RELIABLE+✅" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+ZIDII+MD+BETTER+OPTION;🔥+THE+MOST+POWERFUL+WHATSAPP+BOT;💻+DEVELOPER+BY+MR+BANDAHEALI;🚀+ZIDII-MD+SOLUTIONS;🌈+FAST+⚡+SECURE+🔒+RELIABLE+✅" alt="Typing Animation">
 </h1>
   
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-9ACD32?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029VajGHyh2phHOH5zJl73P)
+[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-9ACD32?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029VaZEhwKJkK7EDrusmL1S)
 </div>
 
 ---------
