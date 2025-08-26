@@ -1,8 +1,8 @@
 {
-  "name": "ZIDII-MD-V1",
+  "name": "ZIDII-MD-v1",
   "description": "Javascript WhatsApp bot made by 𝐌𝐑 𝐒𝐇𝐀𝐁𝐀𝐍",
   "logo": "https://ik.imagekit.io/mrshaban/Picsart_25-02-01_22-47-44-239.jpg",
-  "keywords": ["SHABAN-MD"],
+  "keywords": ["ZIDII-MD-v1"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,19 +16,19 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "SHABAN-MD︎"
+      "value": "ZIDII-MD-v1"
     },
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "MR-SHABAN"
+      "value": "ZIDII-MD-v1"
     }, 
     
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923059395959"
+      "value": "923130206305"
     }, 
     
     "MENU_IMAGE_URL": {
@@ -102,7 +102,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "SHABAN-MD V5"
+      "value": "ZIDII-MD-v1"
 
      },
      
