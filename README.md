@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=70&pause=500&color=8A2BE2&center=true&width=1150&height=200&lines=PLEASE+FORK+STAR+BOT+REPO" alt="Typing SVG" /></a>
   </div>
   </div>
-<a><img src='https://ik.imagekit.io/mrshaban/Picsart_25-02-01_22-47-44-239.jpg'/></a>
+<a><img src='<a href="https://ibb.co/p6FKBRCs"><img src="https://i.ibb.co/V04CcQXh/In-Shot-20250303-085621949.jpg" alt="In-Shot-20250303-085621949" border="0"></a>
 
 <p align="center">
   <a href="https://github.com/zidiimdv1/ZIDII-MD-v1/blob/main/README.md?plain=1"><img title="Developer" src="https://img.shields.io/badge/Author-ZIDII%20MD-FF00FF.svg?style=big-square&logo=github" /></a>
