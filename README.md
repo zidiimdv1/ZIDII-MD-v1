@@ -49,7 +49,7 @@ href="https://github.com/zidiimdv1/ZIDII-MD-v1/blob/main/README.md?plain=1/graph
   **🪀 SESSION WEB 8-AUG**
   
   <a href='https://pair-clcy.onrender.com/' target="_blank">
-    <img src='https://img.shields.io/badge/PAIR_CODE-FF0000?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
+    <img src='https://files.catbox.moe/yrpnjn.jpg?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
 
 
