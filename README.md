@@ -25,7 +25,7 @@
 </p> 
 
 <p align="center">
-  <a href="https://github.com/zidiimdv1/ZIDII-MD-v1/blob/main/README.md?plain=1"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v5-cyan.svg?style=for-the-badge&logo=aqua" /></a>
+  <a href="https://github.com/zidiimdv1/ZIDII-MD-v1/blob/main/README.md?plain=1"><img title="Release" src="https://files.catbox.moe/yrpnjn.jpg?style=for-the-badge&logo=aqua" /></a>
 </p>
 
 
