@@ -19,7 +19,7 @@
 
 
 <p align="center">
-<a href="https://github.com/zidiimdv1/ZIDII-MD-v1/blob/main/README.md?plain=1"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
+<a href="https://github.com/zidiimdv1/ZIDII-MD-v1/blob/main/README.md?plain=1"><img title="PUBLIC-BOT" src="https://files.catbox.moe/yrpnjn.jpg?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
   <img src="https://komarev.com/ghpvc/?username=ZIDII-MD&label=VIEWS&style=square&color=blue" />
 </p>
 </p> 
