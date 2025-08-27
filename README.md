@@ -25,7 +25,7 @@
 </p> 
 
 <p align="center">
-  <a href="https://github.com/zidiimdv1/ZIDII-MD-v1/blob/main/README.md?plain=1"><img title="Release" src="https://files.catbox.moe/yrpnjn.jpg?style=for-the-badge&logo=aqua" /></a>
+  <a href="https://github.com/zidiimdv1/ZIDII-MD-v1/blob/main/README.md?plain=1"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v5-cyan.svg?style=for-the-badge&logo=aqua" /></a>
 </p>
 
 
@@ -37,7 +37,7 @@
 
   
 <a
-href="https://github.com/zidiimdv1/ZIDII-MD-v1/blob/main/README.md?plain=1/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+href="https://github.com/zidiimdv1/ZIDII-MD-v1/blob/main/README.md?plain=1/graphs/commit-activity"><img height="20" src="https://files.catbox.moe/yrpnjn.jpg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 
