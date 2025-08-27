@@ -43,7 +43,7 @@ href="https://github.com/zidiimdv1/ZIDII-MD-v1/blob/main/README.md?plain=1/graph
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+⭐+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
  <p align="lift">
- <a href="https://github.com/zidiimdv1/ZIDII-MD-v1/blob/main/README.md?plain=1/fork"><img title="EDITH-MD" src="https://img.shields.io/badge/FORK-ZIDII MD-h?color=008000&style=for-the-badge&logo=github"></a>
+ <a href="https://github.com/zidiimdv1/ZIDII-MD-v1/blob/main/README.md?plain=1/fork"><img title="ZIDII-MD" src="https://img.shields.io/badge/FORK-ZIDII MD-h?color=008000&style=for-the-badge&logo=github"></a>
  
 
   **🪀 SESSION WEB 8-AUG**
